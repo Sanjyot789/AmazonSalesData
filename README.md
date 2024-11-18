@@ -11,21 +11,21 @@ This project showcases my skills in data analysis, Python, Flask, SQL, and data 
 🚀 Features
 
 	1.	Interactive Dashboard:
-	•	Top-rated products and their details.
-	•	Correlation between discounts and product ratings.
-	•	Sentiment analysis on customer reviews.
-	•	Dynamic filtering by category and rating.
+		•	Top-rated products and their details.
+		•	Correlation between discounts and product ratings.
+		•	Sentiment analysis on customer reviews.
+		•	Dynamic filtering by category and rating.
 	2.	Key Performance Indicators (KPIs):
-	•	Total products.
-	•	Average product rating.
-	•	Maximum discount offered.
+		•	Total products.
+		•	Average product rating.
+		•	Maximum discount offered.
 	3.	Visualizations:
-	•	Bar charts for top-rated products.
-	•	Scatter plots for discount percentage vs. rating.
-	•	Sentiment analysis distribution.
+		•	Bar charts for top-rated products.
+		•	Scatter plots for discount percentage vs. rating.
+		•	Sentiment analysis distribution.
 	4.	Additional Features:
-	•	Pagination for large datasets.
-	•	Backend caching for faster performance.
+		•	Pagination for large datasets.
+		•	Backend caching for faster performance.
 
 🛠️ Technologies Used
 
@@ -46,14 +46,13 @@ This project showcases my skills in data analysis, Python, Flask, SQL, and data 
 	•	rating
 	•	discount_percentage
 	•	review_content
-	•	And more…
 
 🔧 Installation Guide
 
 Step 1: Clone the Repository
 
-git clone https://github.com/your_username/amazon-sales-dashboard.git
-cd amazon-sales-dashboard
+	git clone https://github.com/your_username/amazon-sales-dashboard.git
+	cd amazon-sales-dashboard
 
 Step 2: Create a Virtual Environment
 
