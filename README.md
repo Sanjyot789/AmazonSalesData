@@ -50,10 +50,10 @@ This project showcases my skills in data analysis, Python, Flask, SQL, and data 
 
 🔧 Installation Guide
 
-	1.	Clone the Repository:
+1.	Clone the Repository:
 
-git clone https://github.com/your_username/amazon-sales-dashboard.git
-cd amazon-sales-dashboard
+	git clone https://github.com/your_username/amazon-sales-dashboard.git
+	cd amazon-sales-dashboard
 
 
 	2.	Create a Virtual Environment:
