@@ -1,5 +1,3 @@
-The issue arises because GitHub interprets your Markdown list syntax as code due to incorrect indentation. Markdown requires consistent formatting for ordered lists and code blocks. Here’s the corrected version that ensures no “copy button” appears next to list items:
-
 Amazon Sales Dashboard
 
 📋 Project Overview
