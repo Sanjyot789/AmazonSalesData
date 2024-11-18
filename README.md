@@ -8,20 +8,20 @@ This project showcases my skills in data analysis, Python, Flask, SQL, and data 
 
 🚀 Features
 
-	1.	Interactive Dashboard:
+	1.Interactive Dashboard:
 		•	Top-rated products and their details.
 		•	Correlation between discounts and product ratings.
 		•	Sentiment analysis on customer reviews.
 		•	Dynamic filtering by category and rating.
-	2.	Key Performance Indicators (KPIs):
+	2.Key Performance Indicators (KPIs):
 		•	Total products.
 		•	Average product rating.
 		•	Maximum discount offered.
-	3.	Visualizations:
+	3.Visualizations:
 		•	Bar charts for top-rated products.
 		•	Scatter plots for discount percentage vs. rating.
 		•	Sentiment analysis distribution.
-	4.	Additional Features:
+	4.Additional Features:
 		•	Pagination for large datasets.
 		•	Backend caching for faster performance.
 
