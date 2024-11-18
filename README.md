@@ -1,5 +1,3 @@
-Here’s a professional and detailed README.md file for your GitHub repository to showcase your project:
-
 Amazon Sales Dashboard
 
  
@@ -75,12 +73,10 @@ pip install -r requirements.txt
 mysql -u root -p < Amazon_sales_data.sql
 
 
-	5.	Run the Application:
-
-python app.py
+	5.	Run the Application: python app.py
 
 
-	6.	Access the Dashboard:
+6.	Access the Dashboard:
 Open your browser and navigate to:
 
 http://127.0.0.1:5000/
@@ -120,16 +116,3 @@ Contributions are welcome! If you find a bug or want to suggest a feature:
 	1.	Fork the repository.
 	2.	Create a new branch.
 	3.	Submit a pull request.
-
-📝 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-📧 Contact
-
-For questions or collaborations, feel free to reach out:
-	•	Email: your_email@example.com
-	•	LinkedIn: Your LinkedIn Profile
-	•	GitHub: Your GitHub Profile
-
-Feel free to replace placeholders like path_to_screenshot, your_email@example.com, and your_username with your actual details. Let me know if you need further adjustments! 🚀
