@@ -1,4 +1,8 @@
+Here’s a professional and detailed README.md file for your GitHub repository to showcase your project:
+
 Amazon Sales Dashboard
+
+ 
 
 📋 Project Overview
 
@@ -50,7 +54,7 @@ This project showcases my skills in data analysis, Python, Flask, SQL, and data 
 
 	1.	Clone the Repository:
 
-git clone https://github.com/Sanjyot789/AmazonSalesData.git
+git clone https://github.com/your_username/amazon-sales-dashboard.git
 cd amazon-sales-dashboard
 
 
@@ -96,12 +100,8 @@ amazon-sales-dashboard/
 📸 Screenshots
 
 Homepage
-![image](https://github.com/user-attachments/assets/7e7b428f-6759-47f4-8a3a-6113bd1911f0)
 
 Dashboard
-![image](https://github.com/user-attachments/assets/a7f17659-f299-4dd1-a78c-1699a3bd3d56)
-![image](https://github.com/user-attachments/assets/42c69339-2ebc-4f26-ada5-1b43eb316285)
-
 
 💡 Future Enhancements
 
@@ -121,3 +121,15 @@ Contributions are welcome! If you find a bug or want to suggest a feature:
 	2.	Create a new branch.
 	3.	Submit a pull request.
 
+📝 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+📧 Contact
+
+For questions or collaborations, feel free to reach out:
+	•	Email: your_email@example.com
+	•	LinkedIn: Your LinkedIn Profile
+	•	GitHub: Your GitHub Profile
+
+Feel free to replace placeholders like path_to_screenshot, your_email@example.com, and your_username with your actual details. Let me know if you need further adjustments! 🚀
