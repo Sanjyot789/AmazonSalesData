@@ -37,16 +37,6 @@ This project showcases my skills in data analysis, Python, Flask, SQL, and data 
 	•	TextBlob: Sentiment analysis on customer reviews.
 	•	Bootstrap: Responsive and aesthetic frontend.
 
-📊 Dataset
-
-	•	Source: Amazon sales dataset containing over 1,000+ product records, including ratings, reviews, prices, and discounts.
-	•	Data Fields:
-	•	product_name
-	•	category
-	•	rating
-	•	discount_percentage
-	•	review_content
-
 🔧 Installation Guide
 
 Step 1: Clone the Repository
@@ -56,74 +46,62 @@ Step 1: Clone the Repository
 
 Step 2: Create a Virtual Environment
 
-python -m venv env
-source env/bin/activate   # On Windows: env\Scripts\activate
+	python -m venv env
+	source env/bin/activate   
 
 Step 3: Install Dependencies
 
-pip install -r requirements.txt
+	pip install -r requirements.txt
 
 Step 4: Set Up the Database
 
-	•	Import the database schema and data using the provided SQL file:
+Import the database schema and data using the provided SQL file:
 
-mysql -u root -p < Amazon_sales_data.sql
+	mysql -u root -p < Amazon_sales_data.sql
 
 Step 5: Run the Application
 
-python app.py
+	python app.py
 
 Step 6: Access the Dashboard
 
 Open your browser and navigate to:
 
-http://127.0.0.1:5000/
+	http://127.0.0.1:5000/
 
 📂 Project Structure
 
-amazon-sales-dashboard/
-├── app.py               # Main Flask application
-├── templates/           # HTML templates for the frontend
-│   ├── index.html       # Homepage with filters
-│   ├── dashboard.html   # Dashboard page with visualizations
-├── requirements.txt     # Python dependencies
-├── environment.yml      # Conda environment file
-├── Amazon_sales_data.sql# MySQL database export
-└── README.md            # Project documentation
+	amazon-sales-dashboard/
+	├── app.py               # Main Flask application
+	├── templates/           # HTML templates for the frontend
+	│   ├── index.html       # Homepage with filters
+	│   ├── dashboard.html   # Dashboard page with visualizations
+	├── requirements.txt     # Python dependencies
+	├── environment.yml      # Conda environment file
+	├── Amazon_sales_data.sql# MySQL database export
+	└── README.md            # Project documentation
 
 📸 Screenshots
 
 Homepage
 
+![image](https://github.com/user-attachments/assets/e07e8411-fe2b-45b9-8892-845ccc8fcbd9)
+
 Dashboard
+
+![image](https://github.com/user-attachments/assets/c75dea41-61a8-410d-9da6-fbf19ed7d0b7)
+
+![image](https://github.com/user-attachments/assets/5b0322b0-126e-4e84-b880-fdb7d4cbba2a)
+
 
 💡 Future Enhancements
 
-	1.	Machine Learning Models:
-	•	Predict sales trends based on historical data.
-	•	Product recommendation system.
-	2.	Advanced Filters:
-	•	Price range sliders.
-	•	Time-based analysis for trends.
-	3.	Deployment:
-	•	Host the app on Heroku, AWS, or Render for public access.
+	1.Machine Learning Models:
+		Predict sales trends based on historical data.
+		Product recommendation system.
+	2.Advanced Filters:
+		Price range sliders.
+		Time-based analysis for trends.
+	3.Deployment:
+		Host the app on Heroku, AWS, or Render for public access.
 
-🤝 Contributing
-
-Contributions are welcome! If you find a bug or want to suggest a feature:
-	1.	Fork the repository.
-	2.	Create a new branch.
-	3.	Submit a pull request.
-
-📝 Notes
-
-	•	Replace path_to_homepage_screenshot and path_to_dashboard_screenshot with actual image paths or URLs.
-	•	Customize the GitHub repository link and other placeholders like your_username.
-
-Key Fixes
-
-	•	Removed unnecessary list indentation for steps.
-	•	Replaced bullets with headers (### Step X) for installation steps.
-	•	Added consistent spacing and Markdown syntax.
-
-This formatting ensures the file renders correctly on GitHub without showing the copy button for list items. Let me know if further adjustments are needed! 🚀
