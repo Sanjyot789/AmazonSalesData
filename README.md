@@ -1,3 +1,5 @@
+The issue arises because GitHub interprets your Markdown list syntax as code due to incorrect indentation. Markdown requires consistent formatting for ordered lists and code blocks. Here’s the corrected version that ensures no “copy button” appears next to list items:
+
 Amazon Sales Dashboard
 
 📋 Project Overview
@@ -48,35 +50,32 @@ This project showcases my skills in data analysis, Python, Flask, SQL, and data 
 
 🔧 Installation Guide
 
-	1.	Clone the Repository:
+Step 1: Clone the Repository
 
 git clone https://github.com/your_username/amazon-sales-dashboard.git
 cd amazon-sales-dashboard
 
-
-	2.	Create a Virtual Environment:
+Step 2: Create a Virtual Environment
 
 python -m venv env
 source env/bin/activate   # On Windows: env\Scripts\activate
 
-
-	3.	Install Dependencies:
+Step 3: Install Dependencies
 
 pip install -r requirements.txt
 
+Step 4: Set Up the Database
 
-	4.	Set Up the Database:
 	•	Import the database schema and data using the provided SQL file:
 
 mysql -u root -p < Amazon_sales_data.sql
 
-
-	5.	Run the Application:
+Step 5: Run the Application
 
 python app.py
 
+Step 6: Access the Dashboard
 
-	6.	Access the Dashboard:
 Open your browser and navigate to:
 
 http://127.0.0.1:5000/
@@ -116,3 +115,16 @@ Contributions are welcome! If you find a bug or want to suggest a feature:
 	1.	Fork the repository.
 	2.	Create a new branch.
 	3.	Submit a pull request.
+
+📝 Notes
+
+	•	Replace path_to_homepage_screenshot and path_to_dashboard_screenshot with actual image paths or URLs.
+	•	Customize the GitHub repository link and other placeholders like your_username.
+
+Key Fixes
+
+	•	Removed unnecessary list indentation for steps.
+	•	Replaced bullets with headers (### Step X) for installation steps.
+	•	Added consistent spacing and Markdown syntax.
+
+This formatting ensures the file renders correctly on GitHub without showing the copy button for list items. Let me know if further adjustments are needed! 🚀
