@@ -1,7 +1,5 @@
 Amazon Sales Dashboard
 
- 
-
 📋 Project Overview
 
 The Amazon Sales Dashboard is a dynamic web application that provides insights into Amazon sales data. It enables users to explore key metrics, visualize trends, and analyze customer reviews interactively.
@@ -50,10 +48,10 @@ This project showcases my skills in data analysis, Python, Flask, SQL, and data 
 
 🔧 Installation Guide
 
-1.	Clone the Repository:
+	1.	Clone the Repository:
 
-	git clone https://github.com/your_username/amazon-sales-dashboard.git
-	cd amazon-sales-dashboard
+git clone https://github.com/your_username/amazon-sales-dashboard.git
+cd amazon-sales-dashboard
 
 
 	2.	Create a Virtual Environment:
@@ -73,10 +71,12 @@ pip install -r requirements.txt
 mysql -u root -p < Amazon_sales_data.sql
 
 
-	5.	Run the Application: python app.py
+	5.	Run the Application:
+
+python app.py
 
 
-6.	Access the Dashboard:
+	6.	Access the Dashboard:
 Open your browser and navigate to:
 
 http://127.0.0.1:5000/
