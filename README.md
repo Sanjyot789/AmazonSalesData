@@ -55,7 +55,7 @@ Step 4: Set Up the Database
 
 Import the database schema and data using the provided SQL file:
 
-	mysql -u root -p < Amazon_sales_data.sql
+	mysql -u root -p < amazon.sql
 
 Step 5: Run the Application
 
